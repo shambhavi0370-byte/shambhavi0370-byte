@@ -12,7 +12,12 @@
 - **SQL Capstone Project**  
   Solved real-world sales and customer problems with optimized SQL queries, joins, aggregations & subqueries.
 - **Python Fundamentals**  
-  Used Pandas & NumPy to perform data cleaning, feature engineering, and analysis on employee and project data.
+- Performed data analysis on employee and project datasets using **Pandas** and **NumPy**:
+- Data cleaning
+- Feature engineering
+- Conditional logic
+- Project cost analysis and summary reports
+
   ---
 
 ## 🛠️ Tools & Technologies
