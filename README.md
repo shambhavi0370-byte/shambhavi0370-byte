@@ -6,19 +6,21 @@
 
 ## 💻 Portfolio Projects
 
-- **ShopNest Store Analysis (Power BI)**  
-  Created a dashboard using 9 datasets to analyze sales, product ratings, deliveries & customer behavior.  
-  Answered 8 business questions using data modeling, DAX, and interactive visuals.
-- **SQL Capstone Project**  
-  Solved real-world sales and customer problems with optimized SQL queries, joins, aggregations & subqueries.
-- **Python Fundamentals**  
-- Performed data analysis on employee and project datasets using **Pandas** and **NumPy**:
-- Data cleaning
-- Feature engineering
-- Conditional logic
-- Project cost analysis and summary reports
+### 📊 Power BI – ShopNest Store Performance Analysis  
+Designed a dashboard using **9 datasets** to analyze:
+- Sales
+- Product ratings
+- Deliveries
+- Customer behavior  
+✅ Answered 8 business questions using **data modeling**, **DAX**, and **interactive visualizations**.
 
   ---
+
+  ### 🧮 SQL – Airline DB  
+Solved real-world problems related to sales and customers using:
+- Optimized SQL queries
+- Joins, aggregations, and subqueries  
+✅ Strengthened query optimization and analytical skills.
 
 ## 🛠️ Tools & Technologies
 **Power BI**, **SQL**, **Excel**, **Python (Pandas, NumPy)**  
@@ -26,10 +28,21 @@ Data Modeling, Data Cleaning, Visualization, DAX, Git, SAP SuccessFactors, Eight
 
 ---
 
-## 🏆 Achievements
-⭐ STAR Award at NTT Data for recruitment excellence  
-💫 Recognized in BMW India TA "Super Six" team for high-performance hiring
+### 📈 MS – EXCEL – Freshco Hypermarket  
+Worked on transactional sales data in Excel:  
+- Built dashboards and charts  
+- Performed descriptive analytics  
+- Highlighted key business metrics for retail performance
 
+---
+
+## 🎓 Certifications
+
+- 📜 **Data Analyst Career Track – SkilloVilla**  
+  _Capstone projects in Excel, SQL, Python, and Power BI_  
+  🗓️ Completed: September 2025  
+  [📄 View Certificate](./FA14VOUC)
+  
 ## 📫 Let’s Connect
 📧 Email: [shambhavi0370@gmail.com]  
 🔗 LinkedIn: [linkedin.com/in/shambhavisenthilkumar]
