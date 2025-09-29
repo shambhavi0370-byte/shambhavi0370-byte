@@ -22,9 +22,6 @@ Solved real-world problems related to sales and customers using:
 - Joins, aggregations, and subqueries  
 ✅ Strengthened query optimization and analytical skills.
 
-## 🛠️ Tools & Technologies
-**Power BI**, **SQL**, **Excel**, **Python (Pandas, NumPy)**  
-Data Modeling, Data Cleaning, Visualization, DAX, Git, SAP SuccessFactors, Eightfold AI
 
 ---
 
@@ -35,6 +32,10 @@ Worked on transactional sales data in Excel:
 - Highlighted key business metrics for retail performance
 
 ---
+
+## 🛠️ Tools & Technologies
+**Power BI**, **SQL**, **Excel**, **Python (Pandas, NumPy)**  
+Data Modeling, Data Cleaning, Visualization, DAX, Git, SAP SuccessFactors, Eightfold AI
 
 ## 🎓 Certifications
 
