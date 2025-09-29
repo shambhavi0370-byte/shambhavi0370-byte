@@ -9,9 +9,8 @@
 - **ShopNest Store Analysis (Power BI)**  
   Created a dashboard using 9 datasets to analyze sales, product ratings, deliveries & customer behavior.  
   Answered 8 business questions using data modeling, DAX, and interactive visuals.
-  - **SQL Capstone Project**  
+- **SQL Capstone Project**  
   Solved real-world sales and customer problems with optimized SQL queries, joins, aggregations & subqueries.
-
 - **Python Fundamentals**  
   Used Pandas & NumPy to perform data cleaning, feature engineering, and analysis on employee and project data.
   ---
